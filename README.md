@@ -1,5 +1,5 @@
 # TRIAD-Attack
-[[Paper](https://github.com/AdvML-Group/TRIAD-Attack/)]
+[[Paper](https://rdcu.be/fol83)]
 
 The official implementation of [**\[TVC 2026\] "Enhancing the Transferability and Imperceptibility of Adversarial Attacks via Rescaled Variance-Reduced Diffusion", Junwei Xie, Wenwen Zhang, Wen Yang, Guodong Liu, Di Ming*.**](https://github.com/AdvML-Group/TRIAD-Attack/)
 
